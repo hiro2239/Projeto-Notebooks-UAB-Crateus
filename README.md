@@ -54,7 +54,7 @@ A tabela a seguir detalha o investimento necessário para a aquisição dos 30 n
 | Seguro contra acidentes e roubo (anual)  | 30 | R$ 580,00 | R$ 17.400,00 |
 | Sistema de Rastreamento (licença anual)  | 30 | R$ 150,00 | R$ 4.500,00 |
 | Licença de Software (Pacote Educacional)  | 30 | R$ 95,00 | R$ 2.850,00 |
-| Bolsa/Case de Proteção [cite: 65] | 30 | R$ 120,00 | R$ 3.600,00 |
+| Bolsa/Case de Proteção  | 30 | R$ 120,00 | R$ 3.600,00 |
 | Roteador Wi-Fi 6 de alta capacidade  | 1 | R$ 1.800,00 | R$ 1.800,00 |
 | Serviço de Instalação e Configuração  | 1 | R$ 2.500,00 | R$ 2.500,00 |
 | **TOTAL GERAL ESTIMADO**  | | | **R$ 197.650,00** |
